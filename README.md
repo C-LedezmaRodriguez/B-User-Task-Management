@@ -2,8 +2,7 @@
 
 ## Descripción
 
-Este proyecto backend está desarrollado con **Java** y **Spring Boot** para gestionar usuarios y tareas. La API proporciona endpoints para realizar operaciones CRUD en usuarios y tareas. Los datos son almacenados en memoria, pero en un entorno de producción, se podría integrar con una base de datos como **MySQL**, **PostgreSQL**, **MongoDB**, etc.
-
+Este proyecto backend está desarrollado con **Java** y **Spring Boot** para gestionar usuarios y tareas.
 ### Tecnologías
 
 - **Java 17**: Lenguaje de programación utilizado para el desarrollo del backend.
